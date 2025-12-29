@@ -1,0 +1,7 @@
+{
+  "name": "Vanderlust Travel Microsite",
+  "description": "A high-end, modern travel agency microsite featuring scroll-based animations and an AI-powered personalized trip planner.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
